@@ -1,0 +1,30 @@
+
+h1 {
+	font-family: "Comic Sans MS";
+	font-size:300%;
+	color:#3498DB;
+}
+a {
+	background-color: #3498DB;
+	border-radius: 5px;
+	padding: 10px;
+	padding-right: 20px;
+	padding-left:20px;
+	text-decoration: none;
+	color:white;
+	font-family: Impact;
+	box-shadow: 5px 5px 5px grey;
+}
+.class {
+	float:left;
+	padding: 20px;
+}
+p {
+	font-family: "Comic Sans MS"
+}
+body {
+	background-image: url(https://images.freecreatives.com/wp-content/uploads/2015/04/white-paper-texture-with-flecks.jpg);
+}
+p {
+	color: #3498DB;
+}
