@@ -4,6 +4,13 @@ h1 {
 	font-size:300%;
 	color:#3498DB;
 }
+header {
+	padding: 1em;
+	background-color: #212F3D;
+	clear: left;
+	text-align: center;
+	height: 125%;
+}
 a {
 	background-color: #3498DB;
 	border-radius: 5px;
@@ -24,6 +31,8 @@ p {
 }
 body {
 	background-image: url(https://images.freecreatives.com/wp-content/uploads/2015/04/white-paper-texture-with-flecks.jpg);
+	padding-right: 0px;
+	margin: 0px;
 }
 p {
 	color: #3498DB;
