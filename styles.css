@@ -9,7 +9,9 @@ header {
 	background-color: #212F3D;
 	clear: left;
 	text-align: center;
-	height: 100%;
+}
+.button-holder {
+	text-align: center;
 }
 a {
 	background-color: #3498DB;
