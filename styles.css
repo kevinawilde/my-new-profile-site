@@ -9,7 +9,7 @@ header {
 	background-color: #212F3D;
 	clear: left;
 	text-align: center;
-	height: 125%;
+	height: 100%;
 }
 a {
 	background-color: #3498DB;
@@ -21,6 +21,7 @@ a {
 	color:white;
 	font-family: Impact;
 	box-shadow: 5px 5px 5px grey;
+	text-align: center;
 }
 .class {
 	float:left;
@@ -30,7 +31,7 @@ p {
 	font-family: "Comic Sans MS"
 }
 body {
-	background-image: url(https://images.freecreatives.com/wp-content/uploads/2015/04/white-paper-texture-with-flecks.jpg);
+	background-color: #A6ACAF;
 	padding-right: 0px;
 	margin: 0px;
 }
