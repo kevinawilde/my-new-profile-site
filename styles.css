@@ -1,6 +1,6 @@
 
 h1 {
-	font-family: "Comic Sans MS";
+	font-family: "Georgia";
 	font-size:300%;
 	color:#3498DB;
 }
@@ -30,13 +30,14 @@ a {
 	padding: 20px;
 }
 p {
-	font-family: "Comic Sans MS"
+	font-family: "Lucida Console"
 }
 body {
-	background-color: #A6ACAF;
+	background-image: url(http://www.publicdomainpictures.net/pictures/70000/velka/background-papier-blanc-3.jpg);
 	padding-right: 0px;
 	margin: 0px;
 }
 p {
 	color: #3498DB;
+	padding: 10px;
 }
