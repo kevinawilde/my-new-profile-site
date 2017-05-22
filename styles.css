@@ -28,16 +28,22 @@ a {
 .class {
 	float:left;
 	padding: 20px;
+	border-radius: 5px;
 }
 p {
 	font-family: "Lucida Console"
 }
 body {
-	background-image: url(http://www.publicdomainpictures.net/pictures/70000/velka/background-papier-blanc-3.jpg);
+	background-color: #EAEDED;  
 	padding-right: 0px;
 	margin: 0px;
 }
 p {
 	color: #3498DB;
 	padding: 10px;
+}
+.image {
+	padding: 40px;
+	margin: 40px;
+	border-radius: 4px;
 }
